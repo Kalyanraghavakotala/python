@@ -1,4 +1,4 @@
-print('enyter the 3 values')
+print('enter the 3 values')
 n1=int(input())
 n2=int(input())
 n3=int(input())
